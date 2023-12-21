@@ -1,0 +1,19 @@
+
+body {
+    background-color: cadetblue;
+    color: white;
+}
+
+h1{
+    text-align: center;
+    color: rgb(223, 155, 52);
+    margin-top: 20vh;
+    margin-bottom: 30px;
+}
+
+h2{
+    text-align: center;
+    color: rgb(52, 223, 66);
+    margin-top: 20vh;
+    margin-bottom: 30px;
+}
